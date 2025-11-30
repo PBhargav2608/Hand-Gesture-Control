@@ -1,4 +1,4 @@
-# handgesture.py
+# Hand Gesture Control
 import threading
 import traceback
 import time
